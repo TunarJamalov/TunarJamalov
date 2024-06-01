@@ -61,3 +61,8 @@ HTML, CSS, JAVASCRIPT
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/TunarJamalov
+
+
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/:371298385312874506)](https://discord.com/users/:371298385312874506)
