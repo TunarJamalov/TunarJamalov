@@ -6,61 +6,9 @@
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play video game!
 
 
-## ⏲ What we are doing now:
-I'm learning JavaScript, Css, Html.
-
-<br />
-
-### 📩 Connect with me:
-
-[<img align="left" width="24px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w480-h960" />][linkedin]
-
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-
-
 <br />
 <br />
 <br />
-
-<br />
-<br />
-
-<br />
-<br />
-
-### 🔧 Languages and Tools:
-
-HTML, CSS, JAVASCRIPT
-
-
-<br />
-
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-### GitHub Analytics 📊
-
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TunarJamalov&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
-
-<br />
-<br />
-
-[instagram]: https://www.instagram.com/t_jamalov
-[linkedin]: https://www.linkedin.com/in/tunar-camalov-22a7a1255/
-[gmail]: mailto:tunarcamalov2@gmail.com
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/TunarJamalov
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/371298385312874506?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/371298385312874506)
