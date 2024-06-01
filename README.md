@@ -63,6 +63,6 @@ HTML, CSS, JAVASCRIPT
 [github]: https://github.com/TunarJamalov
 
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/371298385312874506?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/371298385312874506)
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:371298385312874506)](https://discord.com/users/:371298385312874506)
