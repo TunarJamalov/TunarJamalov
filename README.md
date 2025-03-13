@@ -34,7 +34,7 @@
   <h1>💻 Tech Stack :</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,express,lua,mongodb,nodejs,ps,pr,ae,react,robloxstudio,ts,vscode,vercel,bun,git,bootstrap,cloudflare,electron,md,npm,obsidian,powershell,stackoverflow,tailwind)](https://parsher.xyz)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsherr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TunarJamalov&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 
